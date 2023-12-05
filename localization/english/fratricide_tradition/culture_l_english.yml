@@ -1,0 +1,7 @@
+﻿l_english:
+  tradition_fratricide_name: "兄弟殺し"
+  tradition_fratricide_desc: "この文化では、継承の度に兄弟間で血なまぐさい後継者争いが繰り広げられている。"
+
+  culture_parameter_set_nemesis_between_brothers_on_succession: "継承時、請求権をもち、性別法により継承の可能性がある全ての兄弟が互いに宿敵関係になる"
+  # culture_parameter_fratricide_faction_preffered_claimants: "[vassals|E] of this [culture|E] are much more likely to join [claimant_factions|E] against the [holder|E] of the #V $e_byzantium$#! if they are not the [preferred_heir|E]"
+  culture_parameter_fratricide_can_abduct: "$ENABLE_ABDUCTION_SCHEME$"
