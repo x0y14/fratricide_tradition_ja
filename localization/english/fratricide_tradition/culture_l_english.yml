@@ -9,3 +9,14 @@
   culture_parameter_callous_trait_more_common: "[GetTrait('callous').GetName( GetNullCharacter )]の[trait|E]はより一般的になります"
   culture_parameter_sadistic_trait_more_common: "[GetTrait('sadistic').GetName( GetNullCharacter )]の[trait|E]はより一般的になります"
   culture_parameter_greedy_trait_more_common: "[GetTrait('greedy').GetName( GetNullCharacter )]の[trait|E]はより一般的になります"
+
+  culture_parameter_less_dissolution_more_claimants: "$struggle_parameter_less_dissolution_more_claimants$"
+  culture_parameter_fratricide_more_claimants: "[claimant_factions|E]はより多くなります"
+
+  culture_head_have_callous_sadistic_traits_desc:1 "あなたが[GetTrait('callous').GetName( GetNullCharacter )]または[GetTrait('sadistic').GetName( GetNullCharacter )]の[traits|E]を持っている"
+  culture_head_have_murderer_traits_desc:1 "あなたが[GetTrait('murderer').GetName( GetNullCharacter )]の[traits|E]を持っている"
+  culture_head_have_kinslayer_traits_desc:1 "あなたが[GetTrait('kinslayer_1').GetName( GetNullCharacter )]、[GetTrait('kinslayer_2').GetName( GetNullCharacter )]、[GetTrait('kinslayer_3').GetName( GetNullCharacter )]のいずれかの[traits|E]を持っている"
+  culture_head_low_level_of_brutality_desc:1 "You have killed fewer than #V 5#!"
+
+  FACTION_REASON_fratricide_ITS_MINE: "私が正当な[heir|E]である: $FACTOR|0%+=$"
+  FACTION_REASON_fratricide_MORE_CLAIMANTS: "[Character.GetCulture.GetName]: $FACTOR|0%+=$"
